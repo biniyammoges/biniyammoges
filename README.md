@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biniyam Moges</h1>
-<h3 align="center">Senior Full Stack Developer with +5 years of experience who is comfortable working with React / Nextjs, Angular, Vuejs and Nodejs</h3>
+<h3 align="center">Senior Full Stack Developer with +5 years of experience who is comfortable working with React / Nextjs, Angular, Vuejs / Nuxtjs, Nodejs, Expressjs, Nestjs, and Goland. </h3>
 
 - 📫 How to reach me **biniyammgoes54@gmail.com**
 
